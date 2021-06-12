@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @WilliamnMiranda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-WilliamnMiranda/WilliamnMiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @WilliamnMiranda .
+😺 - My two loves are cats and technologies
+💻 - Skills : HTML , CSS , REACT , JQUERY , BOOTSTRAP , SaaS , PHP / MYSQL ( intermediary ).
+📈 - Always looking to contribute to projects .
+ 
