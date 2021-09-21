@@ -3,3 +3,8 @@ Hi, I’m @WilliamnMiranda .
 💻 - Skills : HTML , CSS , REACT , JQUERY , BOOTSTRAP , SaaS , PHP / MYSQL ( intermediary ).
 📈 - Always looking to contribute to projects .
  
+ <div>
+  <a href="https://github.com/WilliamnMiranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamnMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamnMiranda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
