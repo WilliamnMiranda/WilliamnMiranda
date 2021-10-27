@@ -1,4 +1,4 @@
-<div style = "display : flex">
+<div style = "display:inline">
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamnm/)
     ![](https://komarev.com/ghpvc/?username=WilliamnMiranda&color=blue)
 </div>    
